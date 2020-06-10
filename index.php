@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<?php include 'inc/functions.php' ?>
+
   <div class="container">
     <div id="quote-box">
       <p class="quote">Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.</p>
