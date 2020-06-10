@@ -7,24 +7,24 @@
 <?php
 $quotes = [
     [
-        "quote" => "This is the first quote",
-        "source" => "Source 1"
+        "quote" => "You can fail at what you don’t want, so you might as well take a chance on doing what you love.",
+        "source" => "Jim Carrey"
     ],
     [
-        "quote" => "This is the second quote",
-        "source" => "Source 2"
+        "quote" => "Desperation is a necessary ingredient to learning anything or creating anything.  Period.  If you ain’t desperate at some point, you ain’t interesting.",
+        "source" => "Jim Carrey"
     ],
     [
-        "quote" => "This is the third quote",
-        "source" => "Source 3"
+        "quote" => "Money and success don’t change people; they merely amplify what is already there",
+        "source" => "Will Smith"
     ],
     [
-        "quote" => "This is the fourth quote",
-        "source" => "Source 4"
+        "quote" => "If you’re not failing, you’re not pushing your limits, and if you’re not pushing your limits, you’re not maximizing your potential",
+        "source" => "Ray Dalio"
     ],
     [
-        "quote" => "This is the fifth quote",
-        "source" => "Source 5"
+        "quote" => "I learned that if you work hard and creatively, you can have just about anything you want, but not everything you want. Maturity is the ability to reject good alternatives in order to pursue even better ones",
+        "source" => "Ray Dalio"
     ],
 ];
 
